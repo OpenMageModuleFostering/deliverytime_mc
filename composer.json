@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/deliverytime_mc",
+    "name": "OpenMageModuleFostering\/deliverytime_mc",
     "type": "magento-module",
     "license": "GNU",
     "homepage": "",
     "description": "Magecheckout Checkout Delivery time",
     "authors": [
-    {
-        "name": "Magecheckout",
-        "email": "magecheckoutcom@gmail.com"
-    }
-],
+        {
+            "name": "Magecheckout",
+            "email": "magecheckoutcom@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
